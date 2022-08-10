@@ -1,0 +1,52 @@
+.Head{
+    color: #16ec81;
+    font-size: 150px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+  }
+
+.Text1{
+    color: white;
+    font-size: 10px;
+}
+
+.Text2{
+  color: white;
+  font-size: 50px;
+  -webkit-text-stroke-width: 50%;
+  -webkit-text-stroke-color: black;
+}
+
+.Text3{
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  -webkit-text-stroke-width: 50%;
+  -webkit-text-stroke-color: black;
+}
+.Text4{
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  -webkit-text-stroke-width: 50%;
+  -webkit-text-stroke-color: black;
+}
+
+.Text5{
+    color: #16ec81;
+  font-size: 120px;
+  -webkit-text-stroke-width: 50%;
+  -webkit-text-stroke-color: black;
+}
+.Text6{
+  color: #16ec81;
+  font-size: 50px;
+  -webkit-text-stroke-width: 50%;
+  -webkit-text-stroke-color: black;
+}
+
+.btn-text-right{
+	text-align: right;
+}
+
+.btn-text-left{
+	text-align: left;
+}
